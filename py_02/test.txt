@@ -1,0 +1,124 @@
+CY002项目 曲轴扭转减振器设计构想书 CY002-PT-DCS-021-V00
+CY002项目曲轴扭转减振器SCL CY002-PT-SCL-015-V00
+CY002项目 曲轴扭转减振器设计验证计划和报告 CY002-PT-DVPR-030-V00
+CY002项目曲轴扭转减振器技术要求 CY002-PT-TR-018-V00
+CY002项目曲轴扭转减振器一般要求 CY002-PT-GR-017-V00
+CY002项目 曲轴扭转减振器SOR CY002-PT-SOR-023-V00
+APQP1-1 新产品项目可行性分析报告 Product feasibility study Report(PFSR) CY002-PT-PFSR-042-V00
+APQP1-2 新产品可行性承诺报告 Product feasibility commitment(PFC) CY002-PT-PFC-060-V00
+APQP1-4 项目小组成员名单(APQPTEAM) CY002-PT-APQPTEAM-066-V00
+APQP1-5 新产品项目开发计划 Product project plan(NPDP) CY002-PT-NPDP-042-V00
+APQP1-6 设产品设计输入和评审(包含SR)记录 Product design input review(include SR) record(NPDIR) CY002-PT-NPDIR-041-V00
+APQP1-7 产品设计目标与可靠性目标 Product design and reliability target(PDRT) CY002-PT-PDRT-039-V00
+APQP1-8 产品质量目标 Product quality target(PQT) CY002-PT-PQT-055-V00
+APQP2-8 材料及分供方清单MSSL(MSSL) CY002-PT-MSSL-050-V00
+APQP1-10 初始过程流程图 Initial process flow chart(IPFC) CY002-PT-IPFC-059-V00
+CY002项目曲轴扭转减振器SCL CY002-PT-SCL-015-V00
+APQP1-12 初始过程特殊特性清单 Initial process special characteristic list(PPSCL) CY002-PT-PPSCL-058-V00
+APQP1-13 产品保证计划 Product guarantee plan(PGP) CY002-PT-PGP-059-V00
+APQP交付物1-14 阶段总结报告 Phase summary report(PhaseI) CY002-PT-PhaseI-063-V00
+CY002项目 曲轴扭转减振器设计验证计划和报告 CY002-PT-DVPR-030-V00
+
+
+
+
+
+CY002-PT-DCS-021-V00
+CY002-PT-SCL-015-V00
+CY002-PT-DVPR-030-V00
+CY002-PT-TR-018-V00
+CY002-PT-GR-017-V00
+CY002-PT-SOR-023-V00
+CY002-PT-PFSR-042-V00
+CY002-PT-PFC-060-V00
+CY002-PT-APQPTEAM-066-V00
+CY002-PT-NPDP-042-V00
+CY002-PT-NPDIR-041-V00
+CY002-PT-PDRT-039-V00
+CY002-PT-PQT-055-V00
+CY002-PT-MSSL-050-V00
+CY002-PT-IPFC-059-V00
+CY002-PT-SCL-015-V00
+CY002-PT-PPSCL-058-V00
+CY002-PT-PGP-059-V00
+CY002-PT-PhaseI-063-V00
+CY002-PT-DVPR-030-V00
+
+
+
+增程3.0缸盖垫片SCL CY002-PT-SCL-006-V00
+增程3.0缸盖垫片TR CY002-PT-TR-008-V00
+增程3.0缸盖垫片DVP CY002-PT-DVPR-009-V00
+增程3.0缸盖垫片DCS CY002-PT-DCS-011-V00
+增程3.0缸盖垫片GR CY002-PT-GR-006-V00
+增程3.0缸盖垫片TR CY002-PT-TR-008-V01
+增程3.0缸盖垫片DVP CY002-PT-DVPR-009-V00
+增程3.0缸盖垫片SCL CY002-PT-SCL-006-V00
+增程3.0缸盖垫片TR CY002-PT-TR-008-V00
+增程3.0缸盖垫片SOR CY002-PT-SOR-011-V00
+
+
+
+
+
+
+
+
+
+电动可变气门正时系统总成 CY002-PT-DCS-015-V00
+相位调节电机 CY002-PT-SCL-025-V00
+相位调节减速器 CY002-PT-SCL-026-V00
+电动可变气门正时系统总成 CY002-PT-DVPR-018-V00
+电动可变气门正时系统总成 CY002-PT-DCS-015-V00
+电动可变气门正时系统总成 CY002-PT-TR-017-V00
+电动可变气门正时系统总成 CY002-PT-GR-016-V00
+电动可变气门正时系统总成 CY002-PT-SOR-021-V00
+APQP1-1 新产品项目可行性分析报告 Product feasibility study Report(PFSR) CY002-PT-PFSR-003-V00
+APQP1-2 新产品可行性承诺报告 Product feasibility commitment(PFC) CY002-PT-PFC-005-V00
+APQP1-4 项目小组成员名单(APQPTEAM) CY002-PT-APQPTEAM-006-V00
+APQP1-5 新产品项目开发计划 Product project plan(NPDP) CY002-PT-NPDP-002-V00
+APQP1-6 设产品设计输入和评审(包含SR)记录 Product design input review(include SR) record(NPDIR) CY002-PT-NPDIR-002-V00
+APQP1-7 产品设计目标与可靠性目标 Product design and reliability target(PDRT) CY002-PT-PDRT-003-V00
+APQP1-8 产品质量目标 Product quality target(PQT) CY002-PT-PQT-003-V00
+APQP2-8 材料及分供方清单MSSL(MSSL) CY002-PT-MSSL-006-V00
+APQP2-8 材料及分供方清单MSSL(MSSL) CY002-PT-MSSL-036-V00
+APQP1-10 初始过程流程图 Initial process flow chart(IPFC) CY002-PT-IPFC-003-V00
+APQP2-16 产品特殊特性清单SCL(SCL) CY002-PT-SCL-124-V00
+相位调节减速器 CY002-PT-SCL-026-V00
+相位调节电机 CY002-PT-SCL-025-V00
+APQP1-12 初始过程特殊特性清单 Initial process special characteristic list(PPSCL) CY002-PT-PPSCL-006-V00
+APQP1-13 产品保证计划 Product guarantee plan(PGP) CY002-PT-PGP-004-V00
+APQP交付物1-14 阶段总结报告 Phase summary report(PhaseI) CY002-PT-PhaseI-005-V00
+电动可变气门正时系统总成 CY002-PT-DVPR-018-V00
+
+
+
+
+后氧传感器DCS CY002-PT-DCS-026-V00
+后氧传感器DVP CY002-PT-DVPR-022-V00
+后氧传感器SCL CY002-PT-SCL-019-V00
+后氧传感器DCS CY002-PT-DCS-026-V00
+后氧传感器SOR CY002-PT-SOR-028-V00
+后氧传感器GR CY002-PT-GR-022-V00
+后氧传感器TR CY002-PT-TR-023-V00
+APQP1-1 新产品项目可行性分析报告 Product feasibility study Report(PFSR) CY002-PT-PFSR-049-V00
+APQP1-2 新产品可行性承诺报告 Product feasibility commitment(PFC) CY002-PT-PFC-073-V00
+APQP1-4 项目小组成员名单(APQPTEAM) CY002-PT-APQPTEAM-075-V00
+APQP1-5 新产品项目开发计划 Product project plan(NPDP) CY002-PT-NPDP-065-V00
+APQP1-5 新产品项目开发计划 Product project plan(NPDP) CY002-PT-NPDP-047-V00
+APQP1-6 设产品设计输入和评审(包含SR)记录 Product design input review(include SR) record(NPDIR) CY002-PT-NPDIR-046-V00
+APQP1-7 产品设计目标与可靠性目标 Product design and reliability target(PDRT) CY002-PT-PDRT-046-V00
+APQP1-8 产品质量目标 Product quality target(PQT) CY002-PT-PQT-062-V00
+APQP2-8 材料及分供方清单MSSL(MSSL) CY002-PT-MSSL-078-V00
+APQP1-10 初始过程流程图 Initial process flow chart(IPFC) CY002-PT-IPFC-066-V00
+后氧传感器SCL CY002-PT-SCL-019-V00
+APQP1-12 初始过程特殊特性清单 Initial process special characteristic list(PPSCL) CY002-PT-PPSCL-064-V00
+APQP1-13 产品保证计划 Product guarantee plan(PGP) CY002-PT-PGP-072-V00
+APQP交付物1-14 阶段总结报告 Phase summary report(PhaseI) CY002-PT-PhaseI-077-V00
+后氧传感器DVP CY002-PT-DVPR-022-V00
+APQP2-4 产品可制造性和可装配设计评审报告 DFM and DFA review report(DFMandDFA) CY002-PT-DFMandDFA-005-V00
+APQP2-7 产品设计验证及评审PDVA(PDVA) CY002-PT-PDVA-005-V00
+APQP2-9 材料规范确认及审批表MSCA(MSCA) CY002-PT-MSCA-015-V00
+APQP2-9 材料规范确认及审批表MSCA(MSCA) CY002-PT-MSCA-005-V00
+APQP2-16 产品特殊特性清单SCL(SCL) CY002-PT-SCL-149-V00
+APQP1-12 初始过程特殊特性清单 Initial process special characteristic list(PPSCL) CY002-PT-PPSCL-085-V00
